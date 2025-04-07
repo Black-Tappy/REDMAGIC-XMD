@@ -7,7 +7,7 @@
 ---
 
 ```
-REDMAGIC-XMD BY 🅑r̸𝐢𝖌𝖍t̸_×͜× 🩷 
+REDMAGIC-XMD BY Black- Tappy 🩷 
 ```
 
 --- 
@@ -50,7 +50,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://redmagic-pair-codes.onrender.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+<a href='https://redmagic-sessions.onrender.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>  <p align="left">  
 <a href='https://redmagic-pair-codes.onrender.com/' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
 </p>  
